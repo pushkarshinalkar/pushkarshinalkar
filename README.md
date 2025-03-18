@@ -26,5 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushkarshinalkar&show_icons=true&locale=en" alt="pushkarshinalkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushkarshinalkar&" alt="pushkarshinalkar" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=pushkarshinalkar&" alt="pushkarshinalkar" /></p>
 
