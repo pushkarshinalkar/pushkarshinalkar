@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shinalkar-pushkar" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="shinalkar-pushkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shinalkar-pushkar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="shinalkar-pushkar" height="30" width="40" /></a>
 <a href="tg://resolve?domain=pushkarshinalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="pushkarshinalkar" height="30" width="40" /></a>
 <a href="mailto:pushkarshinalkar001@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" /></a>
 </p>
