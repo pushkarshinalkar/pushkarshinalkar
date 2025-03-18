@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shinalkar-pushkar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="shinalkar-pushkar" height="30" width="30" /></a>
-<a href="tg://resolve?domain=pushkarshinalkar" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-icon-6896828_960_720.png" alt="pushkarshinalkar" height="30" width="30" /></a>
+<a href="https://t.me/pushkarshinalkar" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-icon-6896828_960_720.png" alt="pushkarshinalkar" height="30" width="30" /></a>
 <a href="mailto:pushkarshinalkar001@gmail.com" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/o/14/official-gmail-icon-2020.svg" alt="Email" height="30" width="30" /></a>
 </p>
 
